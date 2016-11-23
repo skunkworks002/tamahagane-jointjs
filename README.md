@@ -1,2 +1,2 @@
 # tamahagane-jointjs
-Tamahagane front implementation using jointjs libarary
+Tamahagane front-end implementation using jointjs libarary
